@@ -1,4 +1,4 @@
-## Learning Objectives
+## ## Course Objectives
 The aim of this course is to familiarize students with advanced programming skills used in programming competitions such as ICPC. The prerequisite for this course is the Data Structures and Algorithms course.
 
 ## Course Outline
